@@ -1,2 +1,2 @@
 x = " welcom to github"
-y = "ne brach was added"
+y = "new feature was added"
